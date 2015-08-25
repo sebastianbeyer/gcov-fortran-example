@@ -1,0 +1,12 @@
+*.o
+
+html/
+test
+
+*.gcno
+*.gcda
+coverage.info
+
+
+*.swp
+
